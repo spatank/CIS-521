@@ -1,2 +1,2 @@
-# CIS-521
-Artificial Intelligence
+# CIS-521: Artificial Intelligence
+
